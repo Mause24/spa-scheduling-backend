@@ -50,7 +50,7 @@ Once the project is in place, use the following command (npm install) to install
 
 After having everything in the root folder, we create a file with a name (.env), in order to have our user environment variables.
 
-Inside that file will be the following:
+Inside that file will be the following: 
 
 USER_ID = 1
 USER_NAME = Michael   
