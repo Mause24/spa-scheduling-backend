@@ -6,12 +6,12 @@ import { IPayload } from './context/types';
 @Injectable()
 export class AuthService {
   constructor(
-    private UsersService: UsersService,
+    private usersService: UsersService,
     private jwtService: JwtService,
   ) {}
 
   async validateUser(email: string, password: string) {
-    const user = await this.UsersService.findByEmail(email);
+    const user = await this.usersService.findByEmail(email);
 
     if (user && user.password === password) {
       const { password, ...rest } = user;
