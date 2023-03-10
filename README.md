@@ -44,7 +44,7 @@ $ npm run start:dev
 # production mode
 $ npm run start:prod
 ```
-## Configurar .env
+## Configure .env
 when they download the github repository through the command (git clone https://github.com/Mause24/spa-scheduling-backend.git)
 Once the project is in place, use the following command (npm install) to install all the necessary modules.
 
@@ -63,7 +63,7 @@ $ npm run start
 
 Now with this we go to the postma to test.
 
-## Postman
+## Configure Postman
 Have postman installed or start it in the web browser, enter your account and then enter the work team through the following link: [team](https://app.getpostman.com/join-team?invite_code=6e34b34af1f6893905d01c6dd9549743&target_code=22d36e16a26adbd2e11ca0b8d090d9d9)
 
 After doing all of the above in postman they will go to workspace and then they will go to Team Workspace, and they will have a folder with a name (spaScheduling), when they open that folder several folders will be displayed and we will only enter the one with the name (Auth), There we will have two routes, one that allows us to log in and the other allows us to verify if the token is correct.
