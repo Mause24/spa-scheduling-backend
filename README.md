@@ -58,8 +58,6 @@ USER_PASSWORD=123456
 
 In each of the fields you can modify them as you wish, the previous one is an example of how to do it.
 Now with all this you can run the application through the command:
-```bash
-# development
 $ npm run start
 
 Now with this we go to the postma to try.
