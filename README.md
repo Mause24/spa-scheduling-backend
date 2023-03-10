@@ -52,7 +52,7 @@ After having everything in the root folder, we create a file with a name (.env),
 
 Inside that file will be the following: 
 
-USER_ID = 1
+USER_ID = 1 
 USER_NAME = Michael   
 USER_EMAIL = admin@gmail.com   
 USER_PASSWORD = 123456
