@@ -59,7 +59,7 @@ Inside that file will be the following:
 
 In each of the fields you can modify them as you wish, the previous one is an example of how to do it.
 Now with all this you can run the application through the command:
-$ npm run start
+$ npm run start:dev
 
 Now with this we go to the postma to test.
 
