@@ -61,7 +61,7 @@ In each of the fields you can modify them as you wish, the previous one is an ex
 Now with all this you can run the application through the command:
 $ npm run start
 
-Now with this we go to the postma to try.
+Now with this we go to the postma to test.
 
 ## Postman
 Have postman installed or start it in the web browser, enter your account and then enter the work team through the following link: [team](https://app.getpostman.com/join-team?invite_code=6e34b34af1f6893905d01c6dd9549743&target_code=22d36e16a26adbd2e11ca0b8d090d9d9)
