@@ -52,10 +52,10 @@ After having everything in the root folder, we create a file with a name (.env),
 
 Inside that file will be the following: 
 
-USER_ID = 1 
-USER_NAME = Michael   
-USER_EMAIL = admin@gmail.com   
-USER_PASSWORD = 123456
+##USER_ID = 1 
+##USER_NAME = Michael   
+##USER_EMAIL = admin@gmail.com   
+##USER_PASSWORD = 123456
 
 In each of the fields you can modify them as you wish, the previous one is an example of how to do it.
 Now with all this you can run the application through the command:
